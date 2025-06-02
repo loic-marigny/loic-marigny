@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm currently learning how to use GitHub. I code in Python and I'm trying to get better in web development !
+I'm currently learning how to use GitHub. I code in Python and C# and I'm trying to get better in web development !
 You can reach me on LinkedIn : Loïc Marigny.
 
 <!--
