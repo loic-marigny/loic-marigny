@@ -7,6 +7,7 @@ I'm a student in last year of **engineering school** at [ESILV](https://esilv.fr
 
 
 I'm passionate about **literature, politics and learning other languages.**
+
 I'd like to become a developer, you can find my projects and my progress here.
 I code in **Python, C#, TypeScript** and I'm trying to get better with web development tools !
 
