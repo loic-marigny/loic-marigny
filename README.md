@@ -6,8 +6,10 @@ I'm a student in last year of **engineering school** at [ESILV](https://esilv.fr
 ![My logo](assets/Loic-Marigny-logo.svg)
 
 
-I'm passionate about **literature, politics and learning other languages.** I'd like to become a developer, you can find my projects and my progress here.
+I'm passionate about **literature, politics and learning other languages.**
+I'd like to become a developer, you can find my projects and my progress here.
 I code in **Python, C#, TypeScript** and I'm trying to get better with web development tools !
+
 You can reach me on LinkedIn :  [Loïc Marigny](https://www.linkedin.com/in/loic-marigny/), or on my other socials linked to my profile.
 
 <!--
