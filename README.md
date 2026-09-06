@@ -1,15 +1,17 @@
 # Loïc MARIGNY
 ## Welcome to my GitHub profile 👋
 
-I'm a student in last year of **engineering school** at [ESILV](https://esilv.fr/). I work as a junior consultant at [Enedis](https://www.enedis.fr/) as well, and I'm currently on an abroad semester in *Riga, Latvia*.
+I just graduated **engineering school** at [ESILV](https://esilv.fr/). I have been working for 3 years as a project management-oriented Data Analyst & BI Engineer at [Enedis](https://www.enedis.fr/) and I'm looking for my next challenge !
+
+Based in Paris, I'd like to pursue my learning of Data Analysis and AI, all while discovering exciting new business contexts.
+
+I also like to develop projects on the side purely for fun, mostly with TypeScript/React and Python.
+
+
 
 ![My logo](assets/Loic-Marigny-logo.svg)
 
 
-I'm passionate about **literature, politics and learning other languages.**
-
-I'd like to become a developer, you can find my projects and my progress here.
-I code in **Python, C#, TypeScript** and I'm trying to get better with web development tools !
 
 You can reach me on LinkedIn :  [Loïc Marigny](https://www.linkedin.com/in/loic-marigny/), or on my other socials linked to my profile.
 
